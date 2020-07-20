@@ -17,6 +17,3 @@ Link to the [Tableau Dashboard](https://public.tableau.com/profile/arunav.saikia
 
 ## References
 1.  Yu, Boya, Jiaxu Zhou, Yi Zhang, and Yunong Cao. “Identifying Restaurant Features via Sentiment Analysis on Yelp Reviews.” arXiv preprint arXiv:1709.08698 (2017).
-
-## Contact 
-Please reach out to arsaikia@iu.edu for questions and feedback.
